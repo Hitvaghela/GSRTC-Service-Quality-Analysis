@@ -57,16 +57,16 @@ The objective is to evaluate service quality based on five core dimensions: **Re
 
 ## 📁 Project Structure
 📦 GSRTC-Service-Quality-Analysis
-┣ 📄 BLUEPRINT.docx                    → Visual service blueprint outlining customer journey
-┣ 📄 Final report.docx                → Full written report with objectives, methods, findings, and conclusion
-┣ 📊 GSRTC Suvey (1).sav              → Raw SPSS survey data file for statistical analysis
-┣ 📽️ GSRTC-FInal.pptx                 → Final presentation summarizing key results and insights
-┣ 📽️ physical_evidance.pptx          → Presentation focused on tangible aspects of service (SERVQUAL)
-┣ 📄 questionnaire.docx              → Structured SERVQUAL-based questionnaire used for data collection
-┣ 📄 README.MD                        → Project overview and documentation (this file)
-┣ 📄 Spss_analysis.pdf               → Exported SPSS output summary for statistical tests
-┣ 📄 test variables.docx             → Variable definitions and SERVQUAL dimension mapping
-┣ 📊 Transportation services (Responses).xlsx → Raw survey responses in Excel format
+┣ 📄 BLUEPRINT.docx                    → Visual service blueprint outlining customer journey  
+┣ 📄 Final report.docx                → Full written report with objectives, methods, findings, and conclusion  
+┣ 📊 GSRTC Suvey (1).sav              → Raw SPSS survey data file for statistical analysis  
+┣ 📽️ GSRTC-FInal.pptx                 → Final presentation summarizing key results and insights  
+┣ 📽️ physical_evidance.pptx          → Presentation focused on tangible aspects of service (SERVQUAL)  
+┣ 📄 questionnaire.docx              → Structured SERVQUAL-based questionnaire used for data collection  
+┣ 📄 README.MD                        → Project overview and documentation (this file)  
+┣ 📄 Spss_analysis.pdf               → Exported SPSS output summary for statistical tests  
+┣ 📄 test variables.docx             → Variable definitions and SERVQUAL dimension mapping  
+┣ 📊 Transportation services (Responses).xlsx → Raw survey responses in Excel format  
 
 
 ## 📧 Contact
